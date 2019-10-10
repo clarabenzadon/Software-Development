@@ -12,9 +12,9 @@ If you are not sure about coming to the visit check [the museum reviews][reviews
 ![Vincent Van Gogh][La noche estrellada]
 >
 Other interesting museums are:
-* _[The Metropolitan museum](https://www.metmuseum.org)
-* _[Solomon R.Guggenheim museum](https://www.guggenheim.org)
-* _[The Met Breuer](https://www.metmuseum.org/visit/plan-your-visit/met-breuer) 
+* [_The Metropolitan museum_](https://www.metmuseum.org)
+* [_Solomon R.Guggenheim museum_](https://www.guggenheim.org)
+* [_The Met Breuer_](https://www.metmuseum.org/visit/plan-your-visit/met-breuer) 
 
 [reviews]:https://www.tripadvisor.es/Attraction_Review-g60763-d105126-Reviews-The_Museum_of_Modern_Art-New_York_City_New_York.html
 
